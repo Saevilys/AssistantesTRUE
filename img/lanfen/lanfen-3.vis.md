@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 23:13 UTC
+### Context
+Made with image_generate from the prompt: "A photorealistic smartphone selfie of a 24-year-old Chinese woman, fair warm-toned skin, long straight dark brown hair with middle part, almond-shaped dark eyes, full lips, youthful face, smooth skin. Voluptuous figure, full bust above average, slim waist, generous hips. Leaning forward toward the camera, wearing a low-cut black lace top, deep cleavage visible, soft warm bedroom lighting at night. Selfie angle from slightly above, head to chest.". Caption: "Lanfen — penchée décolleté"
+### Vision
+A photorealistic indoor selfie of a young East Asian woman, appearing around her mid-twenties, with fair warm-toned skin and long straight dark brown hair parted in the middle. Her hair falls over her shoulders and down past her chest. She has almond-shaped dark eyes, neatly defined eyebrows, a small nose, and full lips with a neutral, slightly soft expression. Her face is smooth and youthful.
+
+She leans her upper body forward toward the camera, capturing the shot from a slightly elevated angle, framing from the top of her head down to her chest. She wears a black lace bra or lace-trimmed top with scalloped lace edges along the straps and cup edges; the deep V between the cups is visible, showing pronounced cleavage. Her shoulders and arms are bare.
+
+The setting is an interior bedroom at night. Behind her is a plain beige or tan wall, a white ceiling with a recessed circular light fixture in the upper left, and a dark vertical structure (possibly a wardrobe or doorway) on the left edge. To the right and below, white bedding and a dark headboard are partially visible, indicating she is positioned on or near a bed. The lighting is warm and soft, consistent with indoor night lighting, casting gentle shadows on her face and neck.
+
+The composition is a close-up portrait, the subject's face occupying the upper-right portion of the frame, with her torso filling the lower half. There is no visible text, watermark, or caption. The overall mood is intimate and candid, characteristic of a personal smartphone selfie. The medium is digital photography, presented with realistic skin texture and natural color tones.
