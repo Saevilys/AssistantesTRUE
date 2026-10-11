@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 13:23 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores. A 23-year-old Korean woman, youthful face, smooth pale skin, long straight black hair with blunt bangs, dark brown eyes, dark berry lips, subtle smokey eye makeup. Voluptuous figure, full bust, narrow waist, generous hips. She wears a black oversized hoodie over a sheer black mesh top, black vinyl pants. Standing in a neon-lit narrow alley in Seoul at night, purple and blue neon reflections on wet pavement. Unbothered, cool expression. K-goth street aesthetic, dark and minimal."
+### Vision
+A vertical, photorealistic full-length portrait of a young East Asian woman standing centered in a narrow urban alley at night. She has long, straight black hair with blunt bangs framing a youthful face, smooth pale skin, dark brown eyes, and dark berry-colored lips with a subtle smokey eye makeup look. Her expression is cool and unbothered, gazing directly at the camera. Her figure is voluptuous, with a full bust, narrow waist, and wide hips.
+
+She wears a black oversized hoodie with drawstrings, layered over a sheer black mesh top that reveals her chest through the fabric, and shiny black vinyl or leather pants. Her arms hang relaxed at her sides.
+
+The setting is a dim, narrow alleyway, likely in Seoul, with concrete or brick walls on either side receding into darkness. Wet pavement glistens in the foreground, reflecting purple and blue neon light. A vertical purple neon tube glows on the left wall, with additional blue light above, and faint street lighting appears deep in the alley. The overall palette is dark, dominated by blacks, deep purples, and cool blues.
+
+The composition is a straight-on, centered framing from roughly mid-thigh upward, with the subject occupying most of the frame. The lighting is moody and low-key, with neon reflections creating the primary illumination. The aesthetic is K-goth street fashion: dark, minimal, and edgy. The image simulates a raw, grainy smartphone photo quality. No visible text is present. The mood is cold, confident, and atmospheric.

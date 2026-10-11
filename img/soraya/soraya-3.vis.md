@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-3.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A medium portrait of a young woman with dark, wavy shoulder-length hair and brown eyes, smiling broadly with teeth showing, seated cross-legged on a patterned red-and-blue oriental-style rug. She wears a white silk V-neck camisole with thin spaghetti straps and a gold disc earring in her visible ear; the camisole drapes smoothly over a fuller chest with gentle natural folds, consistent with a curvy bust proportion. Her right arm rests on the edge of a wooden coffee table in the left foreground, where a stack of hardcover books and a white ceramic teapot sit. She is dressed in light beige/cream trousers.
+
+The setting is a sunlit indoor room: behind her are sheer curtains over a bright window, potted houseplants (monstera on the right, others on shelves and the floor), and a wooden side table with books. Warm natural light comes from the window, casting soft highlights on her face and the silky fabric, with muted earthy tones throughout — browns, greens, cream, and the saturated reds and blues of the rug.
+
+Composition is a vertical, centered framing of the subject from mid-thigh up, shot at roughly eye level. The image appears to be a photo edited to increase the bust fullness under the camisole; the edit reads as natural rather than exaggerated, with the white fabric conforming to a fuller chest shape, while the face, hair, pose, and surroundings are consistent with an unaltered original. No visible text. The overall mood is warm, relaxed, and intimate.

@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 13:40 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores. A 23-year-old Korean woman, youthful face, smooth pale skin, long straight black hair with blunt bangs, dark brown eyes, dark berry lipstick, smokey eye makeup. Voluptuous figure, full bust, narrow waist, generous hips. She wears a skin-tight black velvet dress, ultra form-fitting, knee-length, deep neckline, long sleeves. Standing in a luxury hotel hallway at night, warm golden wall sconces, marble floor. Poised, sultry expression, one hand on her hip. Gothic elegance."
+### Vision
+A vertical, photorealistic portrait of a young East Asian woman standing in the center of a long hotel corridor, framed roughly from mid-thigh to the top of her head. She faces the camera directly with a calm, slightly sultry expression and dark berry-colored lipstick. Her makeup includes smokey eye and glossy dark lips. She has long, straight black hair with blunt bangs framing her forehead, falling past her shoulders.
+
+She wears a skin-tight black velvet dress with long sleeves and a deep scoop neckline, clinging closely to her figure and ending at knee length. One hand rests on her hip; the other hangs at her side. Her posture is upright and posed.
+
+The setting is an upscale hotel hallway at night, with a polished marble floor in light beige and cream veining that reflects the warm overhead lighting. Dark marble or stone walls line both sides, punctuated by evenly spaced wall sconces emitting a warm golden glow that recedes into the distance, creating a strong one-point perspective with vanishing-point depth toward the rear of the corridor. Additional warm light fixtures appear near the ceiling.
+
+Color palette is dominated by black (the dress and hair), warm golden ambers from the lighting, and cream/tan tones from the floor and wall panels. The light is warm and low-key, with soft shadows and a slightly grainy, phone-camera-like texture throughout, suggesting a raw, unedited smartphone photograph aesthetic. No visible text appears in the image. The overall mood is elegant, sultry, and cinematic.

@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 08:59 UTC
+### Context
+A smaller copy of /images/hana-2-edit.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A medium-shot portrait of a young East Asian woman standing in front of a neon-lit bar. She has long, straight dark hair falling over her right shoulder and down her back, an oval face with soft features, light makeup, and a faint closed-mouth smile while looking toward the camera. She wears a black satin camisole with thin spaghetti straps and a deep V-neckline that sits low across the chest, revealing fuller breast and cleavage than a natural cut would; the fabric has a glossy sheen with purple and pink highlights reflected on it. A thin gold chain necklace rests on her collarbone. Below the top she wears dark black denim jeans with a visible silver button and front pocket stitching. Her left arm hangs at her side, shoulder slightly angled toward the camera.
+
+Behind her, the bar interior is filled with vertical neon tubes in pink, magenta, blue, and green, mounted on glass panels and metal framing; blurred shelves with bottles and warm amber light streaks appear in the upper background. The overall palette is dominated by hot pink and purple neon against the dark clothing and skin tones, with a soft frontal fill light on her face and chest. No text or signage is legible. The mood is casual nightlife glamour.

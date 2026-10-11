@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
+### Context
+A smaller copy of /images/yumi-v5-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic-style portrait of a young East Asian woman standing waist-deep in water at night. She has long, straight black hair with blunt bangs framing her face, heavy dark smoky eye makeup, and deep maroon-red lipstick. Her expression is neutral and direct, looking straight at the camera. She wears a minimal black string bikini top that is stretched taut across a very full bust, with the thin triangle cups barely containing it; a matching thin-string bikini bottom sits low on her hips. Her skin is pale and wet, with visible water beading and trickling down her chest and cleavage. She is leaning forward, both forearms resting on a dark tiled pool edge behind her, hands splayed flat.
+
+Framing runs from the top of her head down to roughly mid-thigh, where her lower legs dissolve into the greenish-blue pool water in the foreground. The water surface shows ripples and reflections. Behind her, out-of-focus city lights produce a bokeh of pink, purple, amber, and white points against a dark night sky, with faint vertical building silhouettes on the left. A soft mist or steam rises at the upper-left edge of the frame.
+
+Composition centers the figure against the blurred skyline, with the dark ledge behind her grounding the pose. Lighting is low and ambient, dominated by the warm neon glow of the city reflecting off wet skin and water. The image has a smartphone-photo grain and soft focus, with subtle AI-generation artifacts—faint vertical line streaks running down the torso and slightly blurred edges around the hair and city lights. No text, watermark, or logo is visible. The overall mood is moody, glamorous, and nocturnal, emphasizing the wet texture of skin and water against a neon-lit urban backdrop.

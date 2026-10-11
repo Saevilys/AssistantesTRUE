@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 08:59 UTC
+### Context
+A smaller copy of /images/hana-1-edit.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented photograph of an East Asian woman seated in a modern kitchen. She is positioned slightly off-center to the right, angled toward the camera with her body turned and her head facing forward. She has long, dark brown hair falling past her shoulders, fair skin, and a calm, neutral expression. She wears a cream-colored knit sweater with ribbed cuffs and a plain crew neckline, paired with dark black trousers or pants. Her hands rest in her lap. The edited result shows a notably fuller, more generous bust silhouette on the sweater compared to a natural fit, with the sweater fabric stretched taut across the chest while the rest of her figure, face, hair, skin tone, pose, and the surrounding scene remain unchanged.
+
+The setting is a bright, contemporary kitchen with light wood cabinetry, white countertops, and a stainless steel range hood and stovetop visible on the right. A window on the left lets in soft, diffused daylight, with a faucet and sink and small jars on the counter behind her. The lighting is soft and even, casting gentle shadows. The overall mood is neutral and domestic, presented as a realistic, photograph-style image rather than an illustration. No text is visible in the frame.

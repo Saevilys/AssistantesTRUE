@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic, vertical medium-shot photograph of a young woman standing on a rooftop at dusk, framed from roughly the waist up and centered in the frame. She has warm golden-brown skin, long black wavy hair parted in the middle that falls past her shoulders, dark brown eyes, thick arched eyebrows, full lips, and a calm, slightly serious, contemplative expression directed just off-camera to her left. She wears small gold dangling earrings, a fitted black turtleneck, and a dark forest-green coat or blazer draped open over her shoulders, with the hem of dark trousers visible at the bottom edge.
+
+The setting is an urban rooftop. Behind her to the right is a concrete parapet and a building with a window emitting a warm yellow-orange interior glow. To the left and across the background are low-rise buildings with a few lit windows and scattered city lights, and farther back, the dark silhouette of a mountain range stretches across the horizon under a fading blue-grey dusk sky. Cool blue evening light illuminates the subject's face and front, while the warm window light on the right adds a contrasting orange accent.
+
+The composition places the woman slightly left of center, with the lit window balancing the right side. Colours are dominated by the dark green of the coat, the black of the turtleneck, the cool blue of the sky and shadows, and the warm yellow of the window. The medium appears to be a digital photograph with a realistic, slightly grainy, natural skin texture and soft focus on the background. There is no visible text. The overall mood is quiet, introspective, and atmospheric.
