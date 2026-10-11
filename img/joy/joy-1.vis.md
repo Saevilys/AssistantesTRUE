@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-11 13:40 UTC
+### Context
+Made with image_generate from the prompt: "A young woman, 22 years old, from the Philippines. Golden brown skin, long straight black hair past shoulders, bright dark brown eyes, wide genuine smile that never quite reaches sadness. Full bust, generous hips, slim waist, voluptuous figure. Wearing a yellow cropped tank top and high-waisted white jeans. Sitting on a balcony with Manila skyline behind her, morning light. Youthful face, smooth skin. Photorealistic smartphone photo, grainy, raw, unedited, realistic skin texture with visible pores, no painterly effects, no artistic style."
+### Vision
+A photorealistic portrait of a young woman seated on a balcony, captured from roughly the waist up in a vertical framing. She has golden brown skin, long straight black hair falling past her shoulders, and dark brown eyes. Her mouth is open in a broad, genuine smile showing her teeth. Her figure is voluptuous, with a full bust, slim waist, and generous hips. She wears a yellow cropped tank top that exposes her midriff, paired with high-waisted white jeans with a button and pocket detailing visible at the waist.
+
+Behind her, a hazy urban skyline of high-rise buildings and mid-rise structures stretches across the horizon under a pale, washed-out sky, consistent with the Manila cityscape. To the left is part of a woven rattan chair and a light-colored tiled or concrete floor; to the right, a metal balcony railing with vertical bars frames the view, with rooftops and greenery below.
+
+The light is soft morning daylight, warm and diffuse, casting gentle shadows on her skin and clothing. The image has the look of an unedited smartphone photo: slightly grainy, with natural skin texture and realistic detail, no painterly or artistic filter. There is no visible text. The overall mood is casual, sunny, and cheerful.
