@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 17:14 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 25-year-old Mexican woman with copper skin, long dark brown wavy hair, dark eyes, full lips, a teasing grin that says \"I got you\", youthful face, smooth skin. Very large heavy bust, wide hips, slim waist, voluptuous figure, marked waist. Wearing a fitted off-shoulder red top with bare shoulders and deep cleavage, high-waisted black jeans. Standing in a doorway laughing, warm afternoon sun behind her. Selfie angle from slightly above. Framing head to waist. Youthful face, smooth skin."
+### Vision
+The image shows a young woman standing in an open doorway, taking a selfie. She has long, dark brown wavy hair that falls over her shoulders, dark eyes, and is smiling broadly with her teeth showing. Her right arm is extended toward the camera, consistent with holding a phone for a self-portrait, and her left arm hangs loosely at her side.
+
+She wears a fitted red off-the-shoulder top with a plunging V neckline and thin straps, exposing her bare shoulders and a deep cleavage. The fabric appears ribbed. Below it are high-waisted black jeans with a visible metal button at the waistband. Her body type is curvy, with a slim waist and full bust.
+
+The setting is the threshold of a building: a dark wooden door frame is visible on the right edge of the frame, and a plain light-colored wall with a small electrical switch plate is on the left. Through the open doorway behind her is an outdoor scene in bright daylight — blurred foliage, a pale sky, and what appears to be a road or patio area, all backlit by warm sunlight.
+
+Composition: a vertical portrait framed roughly from the waist up, taken from a slightly elevated selfie angle. The subject is centered, her extended arm exiting the right side of the frame. Lighting is natural, with strong backlight creating rim light on her hair and shoulder, and warm sunlight on her skin. The image has a casual, unposed phone-photo quality with soft focus in the background. There is no visible text, watermark, or caption in the image. The overall mood is candid, sunny, and cheerful.

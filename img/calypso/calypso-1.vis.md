@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /images/calypso-v1-newb.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical selfie portrait of a woman with dark skin and a warm complexion, framed from the chest up and centered in the frame. She has voluminous, naturally curly hair that is deep brown to black, with visible reddish-brown and warm auburn highlights running through the curls, most pronounced on the left side of her head where the ambient light catches the texture, giving the curls a coppery, dusk-lit glow. Her face is turned slightly toward the camera with a soft, closed-mouth smile; she wears subtle makeup including defined brows and a glossy nude lip. She is dressed in a black satin or silk garment with thin spaghetti straps and a deep V-neckline, and a thin gold chain necklace rests at her collarbone. The left shoulder and arm are angled toward the viewer, indicating a self-shot perspective.
+
+The background is an urban waterfront at twilight. A wet roadway or promenade runs behind her on the left, with a glowing streetlamp in the upper-left corner casting warm light. Across the scene are distant city skyline lights, a strip of water, and a low concrete seawall on the right. The sky is a gradient of deep blue fading to warmer pink-orange near the horizon, with scattered soft clouds, conveying late evening or dusk.
+
+Lighting is mixed: warm artificial light from street lamps illuminates her face and hair from the front-left, while cool blue twilight fills the background, producing a strong contrast between the warm foreground tones and the cool sky. The image is a color photograph, clearly edited to emphasize warm brown and red reflections in the hair. There is no visible text, watermark, or interface elements. The overall mood is calm, intimate, and flattering, with a candid evening-out atmosphere.
