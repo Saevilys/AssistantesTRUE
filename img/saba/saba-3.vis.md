@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-3.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A waist-up portrait of a young Ethiopian woman standing outdoors at night, facing the camera directly with a calm, confident, slight-smile expression. She has rich copper-brown skin, short tight braids pressed close to her scalp, large hazel-brown eyes, high cheekbones, a defined nose, and full lips. Her figure is curvy with a fuller bust, a narrow waist, and visible décolleté. She wears a fitted black off-the-shoulder top with short sleeves, dark-wash jeans with a visible front button and belt loops, and a thin gold chain necklace bearing small dangling charms. Gold earrings are faintly visible. The skin shows fine texture and realistic detail consistent with a smartphone camera, with no visible artistic brushwork.
+
+The setting is a rooftop: a low, weathered concrete parapet runs behind her at shoulder height, with a rough gray ledge on either side. Beyond the parapet, a sprawling cityscape glitters with scattered warm and cool lights under a dark night sky filled with heavy gray-blue clouds. The city lights fade into the distance on both left and right sides of the frame.
+
+Composition is centered and frontal, framed from roughly the hips upward, with the woman occupying the middle of the image and the city horizon sitting behind her mid-torso. Lighting is dominated by a direct on-camera flash or front light that brightly illuminates her face, chest, and arms against the much darker background, producing strong contrast and some mild overexposure on her skin. The overall mood is intimate, candid, and moody, evoking an unedited late-night phone snapshot. No text, logos, captions, watermarks, or interface elements are visible in the image.

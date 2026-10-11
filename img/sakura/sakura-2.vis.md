@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/sakura/sakura-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph showing a young East Asian woman standing on a wooden bridge in a traditional Japanese garden. She is positioned slightly left of centre, framed from roughly the waist up, facing the camera with a soft, closed-mouth smile and a relaxed posture, her arms hanging at her sides. She has medium-length dark brown wavy hair parted near the middle, fair warm-toned skin, dark eyes, and small gold stud earrings. She wears a fitted black turtleneck sweater that hugs her curvy, fuller-busted figure and a long dark pleated skirt. The skin texture and fabric knit appear realistic and natural, with no painterly or brushstroke effects.
+
+Behind her, the garden setting includes a calm pond to the left with several orange koi visible near the surface, trimmed green shrubbery and rocks along the water's edge, and a low wooden bridge railing running diagonally from the lower left toward the right side of the frame. The background is filled with trees whose leaves are in autumn shades of red, orange, and yellow, with some bare branches above. Soft, warm afternoon sunlight filters through the foliage, casting gentle highlights on the leaves and a slightly brighter glow on the right side of the scene.
+
+The overall colour palette is dominated by warm autumn tones—reds, oranges, and yellows—contrasted with the deep black of her clothing and the green of the shrubs. The image has the look of a candid, unedited smartphone photograph: natural grain, soft focus in the background, and realistic lighting. There is no visible text, watermark, or overlay. The mood is calm, serene, and gently pleasant.

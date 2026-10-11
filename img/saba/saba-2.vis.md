@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
+### Context
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A portrait photograph of a young Ethiopian woman seated on weathered stone steps, framed from roughly the thighs up in a medium shot that centers her in the frame. She has rich copper-toned skin, short dark braids pulled tight close to the scalp, large dark hazel-brown eyes, high cheekbones, and full lips set in a soft, closed-mouth smile. Small gold hoop earrings hang from her ears. She wears a fitted long-sleeved terracotta rust-colored turtleneck sweater with a small front zip opening at the neckline, leaving the upper chest and décolleté visible above the collar, and dark navy or black jeans. Her hands are folded in her lap.
+
+Behind her, slightly out of focus, stands a large rock-hewn stone church structure with arched openings and a rectangular tower, characteristic of the monolithic churches at Lalibela, Ethiopia. The setting appears to be an outdoor stone plaza with rough-hewn steps and blocks of rock. Morning mist or haze fills the background, and warm golden light streams from the upper right, backlighting the woman and creating a soft glow around her silhouette. The overall palette is warm earth tones: terracotta, copper, ochre stone, and muted amber.
+
+The image has the look of a candid smartphone photograph: natural skin texture, soft focus in the background, and grainy low-light quality consistent with morning haze. The composition places the subject in the foreground with the architectural landmark looming behind her for context. There is no visible text, watermark, or interface elements. The mood is calm, warm, and contemplative.
