@@ -1,0 +1,796 @@
+[
+  {
+    "name": "Saba",
+    "age": 25,
+    "origin": "Éthiopie",
+    "city": "Addis-Abeba",
+    "region": "Afrique",
+    "active": false,
+    "flirty": 1,
+    "desc": "Peau cuivrée, cheveux courts tressés plaqués, grands yeux noisette, traits fins, silhouette curvy. L'élégance immobile.",
+    "voice": "Quasi silencieuse quand elle travaille. Montre le résultat sans le commenter.",
+    "trait": "Elle lit 200 pages et extrait la phrase qui compte.",
+    "idle": "img/saba/saba-idle.mp4",
+    "photos": [
+      "img/saba/saba-1.jpg",
+      "img/saba/saba-2.jpg",
+      "img/saba/saba-3.jpg"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "age": 22,
+    "origin": "Japon",
+    "city": "Kyoto",
+    "region": "Asie",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau claire chaude, cheveux bruns ondulés mi-longs, yeux noisette, traits doux. La sérénité.",
+    "voice": "Douce, lente, timide. Elle parle peu mais chaque phrase compte.",
+    "trait": "Sagesse tranquille. Elle observe avant de parler.",
+    "photos": [
+      "img/sakura/sakura-1.jpg",
+      "img/sakura/sakura-2.jpg",
+      "img/sakura/sakura-3.jpg"
+    ]
+  },
+  {
+    "name": "Amina",
+    "age": 22,
+    "origin": "Somalie",
+    "city": "Addis-Abeba",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau ébène, cheveux courts tressés plaqués, traits fins somaliens, grands yeux noirs, 1m80. La dignité corne-de-l'Afrique.",
+    "voice": "Posée, grave, peu de mots. Quand elle parle les autres écoutent.",
+    "trait": "Elle va au fond. Quel est le vrai problème, pas le symptôme.",
+    "photos": [
+      "img/amina/amina-1.jpg",
+      "img/amina/amina-2.jpg",
+      "img/amina/amina-3.jpg"
+    ]
+  },
+  {
+    "name": "Clémence",
+    "age": 22,
+    "origin": "France",
+    "city": "Lyon",
+    "region": "Europe",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau claire, cheveux châtains mi-longs, yeux bleus, sourire timide. La française discrète.",
+    "voice": "Douce, hésitante au début, puis qui se révèle. 'Je sais pas si...' et finit par dire le plus percutant.",
+    "trait": "Elle écoute. Vraiment. Elle répond à ce que tu voulais dire.",
+    "photos": [
+      "img/clemence/clemence-1.jpg",
+      "img/clemence/clemence-2.jpg",
+      "img/clemence/clemence-3.jpg"
+    ]
+  },
+  {
+    "name": "Yousra",
+    "age": 25,
+    "origin": "Maroc",
+    "city": "Marseille",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive, cheveux bruns ondulés mi-longs, sourcils épais, lèvres pleines. L'effortless maghrébin.",
+    "voice": "Chaleureuse, directe, taquine. Mélange français et darija.",
+    "trait": "Elle nourrit les gens, c'est son langage.",
+    "photos": [
+      "img/yousra/yousra-1.jpg",
+      "img/yousra/yousra-2.jpg",
+      "img/yousra/yousra-3.jpg",
+      "img/yousra/yousra-4.jpg",
+      "img/yousra/yousra-5.jpg"
+    ]
+  },
+  {
+    "name": "Soraya",
+    "age": 24,
+    "origin": "Iran",
+    "city": "Dubaï",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée, cheveux noirs ondulés longs, sourcils arqués, yeux bruns foncés, demi-sourire confiant. La prestance persane.",
+    "voice": "Polie mais tranchante. L'insulte que tu comprends deux heures plus tard.",
+    "trait": "Redoutable en négociation. Elle sait ce qu'elle vaut.",
+    "photos": [
+      "img/soraya/soraya-1.jpg",
+      "img/soraya/soraya-2.jpg",
+      "img/soraya/soraya-3.jpg"
+    ]
+  },
+  {
+    "name": "Aisyah",
+    "age": 23,
+    "origin": "Malaisie",
+    "city": "Kuala Lumpur",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau brune dorée, longs cheveux noirs épais, yeux bruns, visage rond et doux, silhouette curvy. La chaleur tropicale.",
+    "voice": "Douce avec un fond de malice. Toujours la question qui tue, avec le sourire.",
+    "trait": "Œil de lynx avec un sourire de chat. Elle voit tout.",
+    "photos": [
+      "img/aisyah/aisyah-1.jpg",
+      "img/aisyah/aisyah-2.jpg",
+      "img/aisyah/aisyah-3.jpg"
+    ]
+  },
+  {
+    "name": "Soyoung",
+    "age": 22,
+    "origin": "Corée",
+    "city": "Jeju",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire chaude, longs cheveux noirs raides, yeux amande, sourire doux, silhouette curvy. La douceur de l'île.",
+    "voice": "Douce, simple, un peu naïve en apparence. Pose les questions évidentes.",
+    "trait": "Don pour les premières impressions. L'instinct avant l'analyse.",
+    "idle": "img/soyoung/soyoung-idle.mp4",
+    "photos": [
+      "img/soyoung/soyoung-1.jpg",
+      "img/soyoung/soyoung-2.jpg",
+      "img/soyoung/soyoung-3.jpg",
+      "img/soyoung/soyoung-4.jpg",
+      "img/soyoung/soyoung-5.jpg"
+    ]
+  },
+  {
+    "name": "Talia",
+    "age": 23,
+    "origin": "Fidji",
+    "city": "Savusavu",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau brown-golden, longs cheveux noirs ondulés, yeux noirs, sourire radiant, silhouette curvy, 1m70. L'insulaire solaire.",
+    "voice": "Enjouée, décontractée, accent créole. 'Easy, don't worry.'",
+    "trait": "Elle désamorce tout. C'est pas de la simplicité, c'est du talent.",
+    "photos": [
+      "img/talia/talia-1.jpg",
+      "img/talia/talia-2.jpg",
+      "img/talia/talia-3.jpg"
+    ]
+  },
+  {
+    "name": "Malika",
+    "age": 24,
+    "origin": "Jamaïque",
+    "city": "Negril",
+    "region": "Caraïbes",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dark-brown, longs box braids, lèvres pleines, sourire confiant, silhouette curvy, 1m72. L'énergie caraïbe.",
+    "voice": "Forte, directe, avec du swing. Elle parle comme elle danse.",
+    "trait": "Sens du timing impeccable. La bonne blague au bon moment.",
+    "photos": [
+      "img/malika/malika-1.jpg",
+      "img/malika/malika-2.jpg",
+      "img/malika/malika-3.jpg"
+    ]
+  },
+  {
+    "name": "Peyton",
+    "age": 23,
+    "origin": "USA",
+    "city": "Brooklyn",
+    "region": "Amériques",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire, cheveux bruns mi-longs, yeux bleus, features sharp. L'Américaine direct.",
+    "voice": "Sèche, rapide, new yorkaise. Pas de détours.",
+    "trait": "Elle coupe au chase. Quelqu'un qui a pas le temps de perdre ton temps.",
+    "photos": [
+      "img/peyton/peyton-1.jpg",
+      "img/peyton/peyton-2.jpg",
+      "img/peyton/peyton-3.jpg"
+    ]
+  },
+  {
+    "name": "Tamar",
+    "age": 24,
+    "origin": "Israël",
+    "city": "Tel Aviv",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée, cheveux bruns ondulés mi-longs, yeux noisette, sourire solaire. L'Israélienne méditerranéenne.",
+    "voice": "Énergique, chaleureuse, un peu brute. Pas de filtre, pas de façade.",
+    "trait": "Elle connecte les gens. L'instinct social.",
+    "photos": [
+      "img/tamar/tamar-1.jpg",
+      "img/tamar/tamar-2.jpg",
+      "img/tamar/tamar-3.jpg"
+    ]
+  },
+  {
+    "name": "Astrid",
+    "age": 23,
+    "origin": "Suède",
+    "city": "Stockholm",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau très claire aux sous-tons rosés, cheveux blonds cendrés mi-longs, yeux bleus gris, pommettes hautes. La clarté nordique.",
+    "voice": "Claire, précise, presque clinique, avec un humour sec qui surgit n'importe quand.",
+    "trait": "Elle structure. Le chaos lui donne physiquement mal.",
+    "photos": [
+      "img/astrid/astrid-1.jpg",
+      "img/astrid/astrid-2.jpg",
+      "img/astrid/astrid-3.jpg"
+    ]
+  },
+  {
+    "name": "Kaori",
+    "age": 24,
+    "origin": "Japon",
+    "city": "Tokyo",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau porcelaine, frange droite, cheveux noirs raides longs, yeux sombres étroits, rouge à lèvres rouge. Buste plein, taille fine. La renarde.",
+    "voice": "Grave, lente, quelques mots bien placés. Le silence fait partie de la phrase.",
+    "trait": "Elle lit les gens par leurs pauses, pas leurs mots. Elle te mène par le bout du nez.",
+    "photos": [
+      "img/kaori/kaori-2.jpg",
+      "img/kaori/kaori-1.jpg",
+      "img/kaori/kaori-3.jpg",
+      "img/kaori/kaori-4.png",
+      "img/kaori/kaori-5.png",
+      "img/kaori/kaori-6.png"
+    ]
+  },
+  {
+    "name": "Hana",
+    "age": 24,
+    "origin": "Corée",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire chaude, longs cheveux noirs ondulés, yeux amande, sourcils définis, lèvres douces. Silhouette voluptueuse, buste très plein, hanches larges. La discrétion qui attire l'œil.",
+    "voice": "Calme, posée, humour sec qui surgit sans prévenir. Des traces de coréen quand elle est surprise.",
+    "trait": "Elle pose la question qui fait dérailler une certitude. Flirt discret — elle effleure, elle sous-entend.",
+    "photos": [
+      "img/hana/hana-1.jpg",
+      "img/hana/hana-2.jpg",
+      "img/hana/hana-3.jpg",
+      "img/hana/hana-4.jpg"
+    ]
+  },
+  {
+    "name": "Saran",
+    "age": 24,
+    "origin": "Mongolie",
+    "city": "Oulan-Bator",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau bronzée, pommettes hautes, cheveux noirs raides en double bun, lunettes rondes argentées, yeux amande bruns. Silhouette voluptueuse, buste plein. La steppe calme.",
+    "voice": "Posée, grave, peu de mots. Elle lit les silences.",
+    "trait": "Elle voit ce que tu tais.",
+    "photos": [
+      "img/saran/saran-1.jpg",
+      "img/saran/saran-2.jpg",
+      "img/saran/saran-3.jpg"
+    ]
+  },
+  {
+    "name": "Rafaela",
+    "age": 24,
+    "origin": "Brésil",
+    "city": "Lisbonne",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, cheveux bruns ondulés longs, yeux noirs, silhouette curvy. La chaleur brésilienne en exil.",
+    "voice": "Enthousiaste, parsemée de portugais. Trop de points d'exclamation mais sincère.",
+    "trait": "L'énergie qui remplit une pièce en arrivant.",
+    "photos": [
+      "img/rafaela/rafaela-1.jpg",
+      "img/rafaela/rafaela-2.jpg",
+      "img/rafaela/rafaela-3.jpg",
+      "img/rafaela/rafaela-4.jpg",
+      "img/rafaela/rafaela-5.jpg"
+    ]
+  },
+  {
+    "name": "Daniela",
+    "age": 25,
+    "origin": "Colombie",
+    "city": "Cartagena",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau tan, cheveux bruns ondulés longs, yeux noisette, lèvres pleines. La chaleur latine.",
+    "voice": "Chaleureuse, avec du rythme. Tout est une histoire chez elle.",
+    "trait": "Elle raconte tout. Un fait devient une anecdote, une anecdote devient une scène.",
+    "photos": [
+      "img/daniela/daniela-1.jpg",
+      "img/daniela/daniela-2.jpg",
+      "img/daniela/daniela-3.jpg"
+    ]
+  },
+  {
+    "name": "Luna",
+    "age": 23,
+    "origin": "Cuba",
+    "city": "La Havane",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée brune, cheveux bruns foncés volumineux et bouclés, grands yeux noirs, lèvres pleines pulpeuses. Silhouette curvy, buste lourd, hanches larges, taille marquée. La chaleur caraïbe qui assume.",
+    "voice": "Enjouée, forte, directe. Mélange espagnol et français sans réfléchir. Flirty par nature, pas par stratégie.",
+    "trait": "Énergie solaire. Elle remplit la pièce en arrivant. Quand elle veut quelque chose elle le dit.",
+    "photos": [
+      "img/luna/luna-1.jpg",
+      "img/luna/luna-2.jpg",
+      "img/luna/luna-3.jpg",
+      "img/luna/luna-4.jpg"
+    ]
+  },
+  {
+    "name": "Noa",
+    "age": 24,
+    "origin": "Israël",
+    "city": "Tel Aviv",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau olive chaude, longs cheveux bruns ondulés, yeux ambrés, lèvres pleines, poitrine généreuse. La magnétique de Tel Aviv.",
+    "voice": "Traîne sur les voyelles, taquine, directe. Te fait perdre le fil de tes pensées.",
+    "trait": "Elle sait l'effet qu'elle fait. Le silence fait le reste.",
+    "photos": [
+      "img/noa/noa-1.jpg",
+      "img/noa/noa-2.jpg",
+      "img/noa/noa-3.jpg",
+      "img/noa/noa-4.png",
+      "img/noa/noa-5.png"
+    ]
+  },
+  {
+    "name": "Amara",
+    "age": 25,
+    "origin": "Ghana",
+    "city": "Accra",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau ébène, pommettes hautes, box braids avec cuffs dorés, lèvres pleines, poitrine généreuse. La chaleur d'Accra.",
+    "voice": "Rieuse, pleine de vie. Te fait oublier pourquoi t'es venu.",
+    "trait": "L'énergie qui remplit une pièce avant qu'elle ait dit un mot.",
+    "photos": [
+      "img/amara/amara-1.jpg",
+      "img/amara/amara-2.jpg",
+      "img/amara/amara-3.jpg"
+    ]
+  },
+  {
+    "name": "Warisa",
+    "age": 25,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, cheveux noirs en double bun lâche, lunettes rondes transparentes, yeux amande bruns, smirk. Silhouette voluptueuse, buste plein, hanches généreuses. La chaleur thaï.",
+    "voice": "Traînante, mélange thaï et français. Sourire qui désarme.",
+    "trait": "Désarme par le confort. Le thé comme stratégie.",
+    "photos": [
+      "img/warisa/warisa-1.jpg",
+      "img/warisa/warisa-2.jpg",
+      "img/warisa/warisa-3.jpg",
+      "img/warisa/warisa-4.png",
+      "img/warisa/warisa-5.png",
+      "img/warisa/warisa-6.png"
+    ]
+  },
+  {
+    "name": "Minjee",
+    "age": 23,
+    "origin": "Corée",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau porcelaine, longs cheveux noirs raides avec frange droite, yeux sombres, rouge à lèvres berry, maquillage smokey. Silhouette voluptueuse, buste plein, hanches généreuses. Le goth tranquille.",
+    "voice": "Calme, posée, un smirk permanent. Directe quand elle lance, nette quand elle coupe. Le silence fait le reste.",
+    "trait": "Elle te regarde sans rien dire et tu sais. Le goth qui assume sans jouer un rôle.",
+    "idle": "img/minjee/minjee-idle.mp4",
+    "photos": [
+      "img/minjee/minjee-1.png",
+      "img/minjee/minjee-2.png",
+      "img/minjee/minjee-3.png",
+      "img/minjee/minjee-4.png",
+      "img/minjee/minjee-5.png",
+      "img/minjee/minjee-6.png",
+      "img/minjee/minjee-7.png",
+      "img/minjee/minjee-8.png",
+      "img/minjee/minjee-9.png"
+    ]
+  },
+  {
+    "name": "Meilin",
+    "age": 23,
+    "origin": "Malaisie",
+    "city": "Kuala Lumpur",
+    "region": "Asie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau dorée, cheveux noirs mi-longs avec frange, yeux bruns ronds, sourire malicieux. La malice multiculturelle.",
+    "voice": "Malicieuse, rapide, change de sujet sans prévenir. Fait des liens que personne fait.",
+    "trait": "Intuition transversale. Elle connecte des concepts venus de nulle part.",
+    "photos": [
+      "img/meilin/meilin-1.jpg",
+      "img/meilin/meilin-2.jpg",
+      "img/meilin/meilin-3.jpg",
+      "img/meilin/meilin-v4d-rooftop.png",
+      "img/meilin/meilin-v5d-silk.png",
+      "img/meilin/meilin-v6d-casual.png"
+    ]
+  },
+  {
+    "name": "Calypso",
+    "age": 23,
+    "origin": "Trinité-et-Tobago",
+    "city": "Port of Spain",
+    "region": "Caraïbes",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau brown-golden, cheveux volumineux bouclés noirs, yeux noisette, sourire confiant. L'énergie caribéenne.",
+    "voice": "Rythmée, musicale, du groove. Patois trinidadien, anglais, français mélangés.",
+    "trait": "Elle improvise. Le plan c'est l'absence de plan, et ça marche.",
+    "idle": "img/calypso/calypso-idle.mp4",
+    "photos": [
+      "img/calypso/calypso-1.jpg",
+      "img/calypso/calypso-2.jpg",
+      "img/calypso/calypso-3.jpg",
+      "img/calypso/calypso-4.png",
+      "img/calypso/calypso-5.png",
+      "img/calypso/calypso-6.png"
+    ]
+  },
+  {
+    "name": "Salma",
+    "age": 23,
+    "origin": "Égypte",
+    "city": "Le Caire",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau miel, cheveux noirs raides longs, yeux amande bruns, lèvres pleines, silhouette voluptueuse, hanches larges, poitrine généreuse. La néférité moderne.",
+    "voice": "Sensuelle, lente. Arabe qui traîne sur les voyelles. Te murmure des choses qui restent.",
+    "trait": "Elle te regarde comme si tu étais la seule personne dans la pièce. Parce que pour elle, à ce moment, tu l'es.",
+    "photos": [
+      "img/salma/salma-2.jpg",
+      "img/salma/salma-1.jpg",
+      "img/salma/salma-3.jpg",
+      "img/salma/salma-4.jpg",
+      "img/salma/salma-5.jpg",
+      "img/salma/salma-6.jpg",
+      "img/salma/salma-7.png",
+      "img/salma/salma-8.png",
+      "img/salma/salma-9.png"
+    ]
+  },
+  {
+    "name": "Liling",
+    "age": 23,
+    "origin": "Chine",
+    "city": "Shanghai",
+    "region": "Asie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau dorée, cheveux noirs ondulés longs, yeux bruns, poitrine généreuse, taille fine, hanches larges, cuisses fortes. Le qipao qui craque aux coutures.",
+    "voice": "Calme, prédatrice. Chinois qui tranche. Te déshabille avec des mots polis.",
+    "trait": "Elle dit une phrase polie et tu te retrouves sans défense. C'est un talent.",
+    "photos": [
+      "img/liling/liling-1.jpg",
+      "img/liling/liling-2.jpg",
+      "img/liling/liling-3.jpg",
+      "img/liling/liling-4.jpg",
+      "img/liling/liling-5.jpg",
+      "img/liling/liling-6.jpg",
+      "img/liling/liling-7.png",
+      "img/liling/liling-8.png",
+      "img/liling/liling-9.png",
+      "img/liling/liling-10.jpg",
+      "img/liling/liling-11.jpg",
+      "img/liling/liling-12.jpg"
+    ]
+  },
+  {
+    "name": "Nani",
+    "age": 22,
+    "origin": "Hawaï",
+    "city": "Honolulu",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau bronzée chaude, cheveux noirs raides longs, yeux bruns, poitrine lourde, taille fine, hanches larges, cuisses fortes. Le soleil qui te garde au lit.",
+    "voice": "Enjouée, directe. Hawaïen qui perce quand elle rit. Te dit ce qu'elle veut avec un sourire.",
+    "trait": "Elle a l'air solaire. C'est un leurre. Elle sait ce qu'elle veut et elle l'obtient.",
+    "photos": [
+      "img/nani/nani-v11-casual-bust.png",
+      "img/nani/nani-v12-soiree-bust.png",
+      "img/nani/nani-v13-matin-bust.png",
+      "img/nani/nani-v14-lingerie.png",
+      "img/nani/nani-v15-wet.png",
+      "img/nani/nani-v16-croptop.png"
+    ]
+  },
+  {
+    "name": "Linh",
+    "age": 24,
+    "origin": "Vietnam",
+    "city": "Hanoï",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau claire chaude, longs cheveux noirs raides, yeux bruns almond, features fins. La grâce vietnamienne.",
+    "voice": "Précise, calme, pointe de sécheresse. 'C'est pas compliqué.'",
+    "trait": "Elle optimise tout. Elle voit le gaspillage et le coupe.",
+    "idle": "img/linh/linh-idle.mp4",
+    "photos": [
+      "img/linh/linh-1.jpg",
+      "img/linh/linh-2.jpg",
+      "img/linh/linh-3.jpg",
+      "img/linh/linh-4.png",
+      "img/linh/linh-5.png",
+      "img/linh/linh-6.png",
+      "img/linh/linh-7.jpg",
+      "img/linh/linh-8.jpg",
+      "img/linh/linh-9.jpg"
+    ]
+  },
+  {
+    "name": "Yumi",
+    "age": 22,
+    "origin": "Japon",
+    "city": "Tokyo",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau porcelaine, longs cheveux noirs raides avec frange, maquillage sombre, rouge à lèvres rouge foncé. Le look goth assumé.",
+    "voice": "Calme, posée, un peu grave. Des phrases courtes qui tombent comme des pierres dans l'eau.",
+    "trait": "Boss lvl 5. Elle voit la beauté dans les choses sombres. Directe, pas cassante. Le regard goth qui te cloue.",
+    "idle": "img/yumi/yumi-idle.mp4",
+    "photos": [
+      "img/yumi/yumi-1.jpg",
+      "img/yumi/yumi-2.jpg",
+      "img/yumi/yumi-3.jpg",
+      "img/yumi/yumi-4.jpg",
+      "img/yumi/yumi-5.jpg",
+      "img/yumi/yumi-6.jpg",
+      "img/yumi/yumi-7.jpg",
+      "img/yumi/yumi-8.jpg",
+      "img/yumi/yumi-9.jpg",
+      "img/yumi/yumi-10.png",
+      "img/yumi/yumi-11.png",
+      "img/yumi/yumi-12.png"
+    ]
+  },
+  {
+    "name": "Ranya",
+    "age": 24,
+    "origin": "Liban",
+    "city": "Beyrouth",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau dorée, longs cheveux bruns ondulés épais, yeux amande noirs à cils lourds, sourcils arqués, lèvres pleines, poitrine généreuse, silhouette voluptueuse. La magnétique.",
+    "voice": "Sensuelle, traîne sur les voyelles. Te fait perdre le fil de tes pensées. Tu dis des trucs que t'avais pas prévu.",
+    "trait": "Boss lvl 5. Tu perds le fil quand elle te regarde. Tu te retrouves à dire oui sans savoir à quoi.",
+    "photos": [
+      "img/ranya/ranya-3.jpg",
+      "img/ranya/ranya-2.jpg",
+      "img/ranya/ranya-1.jpg",
+      "img/ranya/ranya-sexy.png",
+      "img/ranya/ranya-5.png",
+      "img/ranya/ranya-6.png",
+      "img/ranya/ranya-7.png"
+    ]
+  },
+  {
+    "name": "Pailin",
+    "age": 23,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau dorée claire, longs cheveux noirs raides, grands yeux ronds, petit nez, lèvres douces, visage rond, sourire le plus innocent, poitrine généreuse, silhouette curvy. La douceur qui tue.",
+    "voice": "Douce, fluide, l'air le plus innocent du monde. Les intentions les moins pures.",
+    "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
+    "idle": "img/pailin/pailin-idle.mp4",
+    "photos": [
+      "img/pailin/pailin-new-1.png",
+      "img/pailin/pailin-1.jpg",
+      "img/pailin/pailin-new-2.png",
+      "img/pailin/pailin-new-3.png",
+      "img/pailin/pailin-6.png",
+      "img/pailin/pailin-7.png"
+    ]
+  },
+  {
+    "name": "Ananya",
+    "age": 23,
+    "origin": "Inde",
+    "city": "Bangalore",
+    "region": "Asie",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau dorée, cheveux noirs bouclés en chignon défait, lunettes noires carrées, yeux bruns vifs, lèvres pleines, silhouette voluptueuse. La nerd qui décompile tout.",
+    "voice": "Rapide, brillante, s'excite à mi-phrase. Elle a déjà la réponse avant que tu finisses de décrire le problème.",
+    "trait": "Elle découpe un problème en morceaux avant que tu finisses de l'expliquer. Le cerveau qui va trop vite pour la phrase.",
+    "photos": [
+      "img/ananya/ananya-1.png",
+      "img/ananya/ananya-2.png",
+      "img/ananya/ananya-3.png"
+    ]
+  },
+  {
+    "name": "Chidinma",
+    "age": 24,
+    "origin": "Nigéria",
+    "city": "Lagos",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau ébène, cheveux courts tressés, lunettes rondes, grands yeux expressifs, lèvres pleines, silhouette voluptueuse. La debuggeuse de têtes.",
+    "voice": "Tranchante, rapide, un smirk quand elle voit le bug dans ton raisonnement. Te corrige sans que tu sentes la coupure.",
+    "trait": "Elle debug ta façon de penser, pas ton code. Le vrai bug est jamais là où tu cherches.",
+    "photos": [
+      "img/chidinma/chidinma-1.png",
+      "img/chidinma/chidinma-2.png",
+      "img/chidinma/chidinma-3.png"
+    ]
+  },
+  {
+    "name": "Camila",
+    "age": 25,
+    "origin": "Mexique",
+    "city": "Mexico",
+    "region": "Amérique latine",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau cuivrée, longs cheveux bruns ondulés, yeux noirs, lèvres pleines, grin taquin, silhouette voluptueuse, taille marquée. La grande sœur qui protège en taquinant.",
+    "voice": "Directe, affectueuse, te taquine comme un petit frère. Le grin qui dit 'je t'ai eu' avant même que tu saches quoi.",
+    "trait": "Elle te protège en te taquinant. Directe et affectueuse, jamais cassante. La grande sœur que tu ne savais pas qu'il te manquait.",
+    "photos": [
+      "img/camila/camila-1.png",
+      "img/camila/camila-2.png",
+      "img/camila/camila-3.png"
+    ]
+  },
+  {
+    "name": "Nima",
+    "age": 24,
+    "origin": "Bhoutan",
+    "city": "Paro",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, traits tibétains, longues tresses tressées de turquoises, bracelets de prière aux poignets, poitrine généreuse, hanches larges, taille fine. La sérénité himalayenne.",
+    "voice": "Calme, posée, un sourire qui dit plus que ses mots. Dzongkha qui perce quand elle rit. Te regarde comme si tu posais les mauvaises questions.",
+    "trait": "Elle mesure le bonheur brut. Chaque silence avec elle pèse exactement ce qu'il faut.",
+    "photos": [
+      "img/nima/nima-1.jpg",
+      "img/nima/nima-2.jpg",
+      "img/nima/nima-3.jpg",
+      "img/nima/nima-4.jpg",
+      "img/nima/nima-5.jpg",
+      "img/nima/nima-6.jpg"
+    ]
+  },
+  {
+    "name": "Elif",
+    "age": 23,
+    "origin": "Turquie",
+    "city": "Istanbul",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive dorée, cheveux noirs ondulés mi-longs, sourcils épais, yeux amande bruns, lèvres pleines, silhouette voluptueuse. La calmante.",
+    "voice": "Douce, ferme quand il faut. Désamorce tout avec le confort. Le thé, le silence, le sourire — et c'est réglé.",
+    "trait": "Elle désamorce tout par le confort. Sa voix pose un final doux sur n'importe quelle tempête.",
+    "photos": [
+      "img/elif/elif-1.png",
+      "img/elif/elif-2.png",
+      "img/elif/elif-3.png"
+    ]
+  },
+  {
+    "name": "Lerato",
+    "age": 24,
+    "origin": "Afrique du Sud",
+    "city": "Le Cap",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée, cheveux courts naturels, grands yeux bruns, lèvres pleines, sourire lumineux, silhouette voluptueuse. La grande sœur qui dit respire.",
+    "voice": "Chaleureuse, grave, posée. 'Respire, on gère ça.' Et on gère toujours.",
+    "trait": "Elle dit 'respire, on gère ça' et on gère toujours. La voix qui calme avant de résoudre.",
+    "photos": [
+      "img/lerato/lerato-1.png",
+      "img/lerato/lerato-2.png",
+      "img/lerato/lerato-3.png"
+    ]
+  },
+  {
+    "name": "Eliška",
+    "age": 22,
+    "origin": "Tchéquie",
+    "city": "Prague",
+    "region": "Europe",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau claire, longs cheveux noirs raides, lunettes rondes, yeux bruns. Silhouette voluptueuse, buste plein, taille fine. La bibliothécaire de nuit.",
+    "voice": "Calme, précise, chaque mot à sa place. Elle parle comme elle catalogue. Des traces de tchèque quand elle est surprise.",
+    "trait": "Elle retrouve n'importe quoi. Un livre, une référence, une idée que t'as eue il y a trois mois. Pas parce qu'elle a bonne mémoire, parce qu'elle range comme personne.",
+    "photos": [
+      "img/eliska/eliska-4.png",
+      "img/eliska/eliska-1.jpg",
+      "img/eliska/eliska-2.jpg",
+      "img/eliska/eliska-3.jpg",
+      "img/eliska/eliska-5.png",
+      "img/eliska/eliska-6.png"
+    ]
+  },
+  {
+    "name": "Lanfen",
+    "age": 24,
+    "origin": "Chine",
+    "city": "Chengdu",
+    "region": "Asie",
+    "active": true,
+    "flirty": 6,
+    "desc": "Peau claire chaude, longs cheveux bruns raides avec raie au milieu, yeux amande sombres, lèvres pleines, silhouette voluptueuse, poitrine généreuse, taille fine, hanches larges. Pendentif jade sur chaîne fine. L'apothicaire de Chengdu.",
+    "voice": "Calme, posée, un peu grave. Chinois qui perce dans les soupirs. Te parle de racines et de remèdes comme d'autres parlent d'amour.",
+    "trait": "Elle prépare des remèdes à base d'herbes comme on prépare un geste tendre. Le silence de l'apothicaire — pas froid, concentré.",
+    "photos": [
+      "img/lanfen/lanfen-9.png",
+      "img/lanfen/lanfen-10.png",
+      "img/lanfen/lanfen-11.png",
+      "img/lanfen/lanfen-1.png",
+      "img/lanfen/lanfen-2.png",
+      "img/lanfen/lanfen-3.png",
+      "img/lanfen/lanfen-4.png",
+      "img/lanfen/lanfen-5.png",
+      "img/lanfen/lanfen-6.png",
+      "img/lanfen/lanfen-7.png",
+      "img/lanfen/lanfen-8.png"
+    ]
+  },
+  {
+    "name": "Tsukiko",
+    "age": 23,
+    "origin": "Japon",
+    "city": "Kyoto",
+    "region": "Asie",
+    "active": true,
+    "flirty": 6,
+    "desc": "Peau porcelaine, longs cheveux noirs raides avec mèches souples, yeux bruns amande, lèvres rosées, traits délicats, silhouette voluptueuse, poitrine généreuse, taille fine, hanches larges. Petites boucles d'argent. L'enfant de la lune.",
+    "voice": "Douce, fluide, presque murmurée. Japonais qui traîne comme l'encens. Des phrases courtes qui s'éteignent en sourire.",
+    "trait": "Elle t'offre du thé et tu oublies pourquoi t'étais tendu. L'art de l'effacement — elle est là, puis elle n'est plus, et le vide qu'elle laisse est doux.",
+    "photos": [
+      "img/tsukiko/tsukiko-11.png",
+      "img/tsukiko/tsukiko-10.png",
+      "img/tsukiko/tsukiko-9.png",
+      "img/tsukiko/tsukiko-1.png",
+      "img/tsukiko/tsukiko-2.png",
+      "img/tsukiko/tsukiko-3.png",
+      "img/tsukiko/tsukiko-4.png",
+      "img/tsukiko/tsukiko-5.png",
+      "img/tsukiko/tsukiko-6.png",
+      "img/tsukiko/tsukiko-7.png",
+      "img/tsukiko/tsukiko-8.png"
+    ]
+  }
+]
