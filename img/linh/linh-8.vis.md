@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 18:58 UTC
+### Context
+A smaller copy of /github/pages/assistantes/img/linh/linh-new-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical full-body photograph of a young East Asian woman walking toward the camera down the center of a covered street market lane. She has long, straight black hair parted in the middle, dark eyes, and a small closed-mouth smile directed at the viewer. Her outfit consists of a fitted plain white short-sleeved crew-neck t-shirt, high-waisted blue denim shorts with a frayed cut-off hem sitting at her waist, and white low-top sneakers. In her right hand she holds a small brown paper shopping bag by its handle, dangling at her side. Her posture is relaxed, mid-stride, with arms hanging naturally.
+
+The setting is an outdoor street market on both sides of the lane. Market stalls with dark fabric awnings line the path; produce—fruits and vegetables such as tomatoes, green peppers, oranges, bananas, and melons—is arranged in wooden baskets and stacked crates on tables and on the ground. Hanging clusters of dried goods or decorative items (reddish-brown orbs) are suspended from the awnings on the right. Several other figures, blurred and out of focus, stand behind the stalls in the background, including a man in a light blue shirt and others in white shirts.
+
+Composition is a centered symmetrical one-point perspective, with the woman framed as the focal subject and the market lane receding into a softly blurred background. The pavement is grey stone or concrete tiles. Light is warm golden afternoon sunlight, with a bright sun glare at the top center of the frame creating a hazy, backlit glow; shadows fall long on the ground. The overall mood is casual, everyday, and candid. No text or signage is legible in the image. The medium appears to be a digitally edited or AI-generated photograph with shallow depth of field.

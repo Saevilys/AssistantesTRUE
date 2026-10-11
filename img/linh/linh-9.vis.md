@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 18:58 UTC
+### Context
+A smaller copy of /github/pages/assistantes/img/linh/linh-new-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically framed portrait of a young East Asian woman seated on a weathered wooden park bench, angled slightly toward the camera. She has long, straight dark hair that falls over her shoulders, with a few strands lifted as if caught in a gentle breeze. Her expression is soft and content, with a faint smile and relaxed posture, hands resting in her lap. She wears a loose, lightweight light pink blouse with a deep V-neckline and elbow-length sleeves, paired with white linen pants. The bench sits on a grassy area in the foreground.
+
+Behind her, a calm lake stretches across the middle of the frame, its surface reflecting the warm orange and pink glow of a low sun near the horizon, partially hidden by a distant tree line. The sky above shows a soft gradient of sunset colors—peach, pink, and pale yellow fading into light blue. Leafy green branches hang into the upper corners of the frame, partially framing the scene. The overall lighting is the soft, warm light of the golden hour, casting gentle tones on the woman's skin and clothing. The color palette is dominated by warm oranges and pinks in the sky and reflection, green foliage, and the muted browns of the bench and grass. The style is a photorealistic edited photograph, likely AI-modified. No text is visible. The mood is peaceful, casual, and serene.

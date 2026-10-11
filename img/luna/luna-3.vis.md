@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:59 UTC
+### Context
+A smaller copy of /images/luna-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, portrait-oriented photograph rendered in a grainy, unedited smartphone-camera style, showing a young woman standing indoors in what appears to be a dimly lit bar or restaurant. The subject is a woman with golden-brown skin, voluminous curly dark-brown hair falling to her shoulders, large dark eyes, full lips, and a slight, closed-mouth smile directed at the camera. She wears gold hoop earrings, a red ribbed off-the-shoulder top with short sleeves exposing her shoulders and cleavage, and high-waisted black jeans with a visible metal button and front pockets. In her right hand she holds a tall clear glass containing a green cocktail garnished with mint leaves and a lime wedge on the rim, with a dark straw inserted. Her body is shown from roughly the mid-thigh up, in a frontal stance.
+
+The setting is a warm, low-lit interior. The background is out of focus, showing rows of small glowing string-light bulbs strung overhead, dim hanging lamps, and blurred wooden tables and chairs receding into the distance on either side, consistent with a Havana bar atmosphere. The lighting is predominantly warm amber, casting soft shadows on the subject's face and torso while the background lights appear as soft bokeh circles.
+
+Color palette is dominated by warm golds, oranges, and browns in the background, contrasted by the saturated red of the top and the deep black of the jeans, with green accents from the cocktail and mint. The image has visible digital grain and realistic skin texture with pores, mimicking raw phone-camera quality. There is no visible text in the image. The overall mood is casual, intimate, and warmly lit, with a flirtatious, posed quality.

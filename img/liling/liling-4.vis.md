@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
+### Context
+A smaller copy of /images/liling-mesh.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, head-to-mid-thigh photorealistic portrait of a young East Asian woman seated on a nighttime balcony. She has long, wavy black hair falling past her shoulders, brown eyes, fair-to-golden skin, and a calm, faintly smiling expression as she looks directly at the camera. She wears a sheer black fishnet mesh long-sleeve bodysuit with nothing underneath, the mesh clinging to her skin so that her large breasts and nipples are clearly visible through it. Below, she wears black high-waisted shorts that are unbuttoned, leaving the top open. She sits cross-legged, leaning back onto her right hand, with her left arm extended behind her for support.
+
+The setting is a balcony enclosed by wet glass panels covered in rain droplets. Behind her, an out-of-focus city skyline at night glows with warm amber, orange, and pink bokeh lights, including what appears to be a tall illuminated tower on the left. To her right on the ledge sit two small cups—one containing an amber liquid resembling tea or beer—and beyond them the edge of a wooden chair is visible. The framing crops her from the top of her head to her upper thighs, with the balcony floor at the bottom.
+
+Lighting is dim and warm, dominated by the amber glow of the distant city and neon reflections on the wet glass, casting soft light on her face and torso. The image has a grainy, raw smartphone-camera quality with visible skin texture, consistent with a casual personal snapshot rather than a polished studio shot. No text, captions, watermarks, or logos are visible anywhere in the frame. The overall mood is intimate, relaxed, and quietly confident, combining a suggestive pose with an atmospheric urban nightscape.
