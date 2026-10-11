@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assistantes — Sélection</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#12100e;color:#e8e0d8;font-family:system-ui,-apple-system,sans-serif;line-height:1.5}
+header{padding:40px 20px 30px;text-align:center}
+header h1{font-size:2rem;font-weight:300;letter-spacing:3px;color:#d4a574}
+header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
+.toolbar{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;padding:0 20px 20px}
+.btn{padding:8px 16px;border:1px solid #2d2520;border-radius:20px;background:transparent;color:#8a7d70;font-size:0.8rem;cursor:pointer;transition:all .2s}
+.btn:hover{border-color:#d4a574;color:#d4a574}
+.btn.active{background:#d4a574;color:#12100e;border-color:#d4a574}
+.container{max-width:1100px;margin:0 auto;padding:0 20px 60px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:20px}
+.card{position:relative;border-radius:8px;overflow:hidden;cursor:pointer;transition:transform .2s,box-shadow .2s;background:#1a1512;border:1px solid #2d2520}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,.5)}
+.card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block;transition:opacity .4s}
+.card-video{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .4s;pointer-events:none}
+.card:hover .card-video{opacity:1}
+.card:hover .card img{opacity:0}
+.card-placeholder{width:100%;aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;background:#1a1512;border:1px dashed #3d3530;border-radius:6px;margin:6px;color:#4a3d30;font-size:0.8rem;font-style:italic}
+.status-dot{position:absolute;top:10px;right:10px;width:10px;height:10px;border-radius:50%;border:2px solid #12100e}
+.status-dot.on{background:#4ade80}
+.status-dot.off{background:#ef4444}
+.card-info{padding:12px 14px}
+.card-name{font-size:1rem;font-weight:500;color:#d4a574}
+.card-meta{font-size:0.72rem;color:#6a5d50;margin-top:2px}
+.card-trait{font-size:0.75rem;color:#9a8d80;margin-top:6px;line-height:1.4;max-height:2.8em;overflow:hidden}
+.flirt{position:absolute;top:10px;left:10px;display:flex;gap:3px}
+.flirt-heart{font-size:0.85rem;line-height:1;text-shadow:0 0 2px #000,1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000}
+.flirt-heart.on{color:#d4a574}
+.flirt-heart.off{color:#5d5040}
+.flirt-lvl4{font-size:1.15rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
+.flirt-lvl5{font-size:1.3rem;line-height:1;animation:dangerPulse 1.2s ease-in-out infinite;text-shadow:0 0 6px #ff0033,0 0 14px #ff0033,0 0 22px #ff003390;color:#ff0033}
+.flirt-lvlS{font-size:1.1rem;line-height:1;animation:rainbowGlow 2s linear infinite;display:flex;align-items:center;gap:2px}
+.flirt-lvlS .heart{text-shadow:0 0 6px currentColor,0 0 12px currentColor;animation:rainbowHeart 2s linear infinite}
+.flirt-lvlS .s-letter{font-size:0.7rem;font-weight:700;color:#fff;text-shadow:0 0 4px #fff,0 0 8px #ff00ff,0 0 12px #00ffff;letter-spacing:1px}
+@keyframes rainbowGlow{0%{filter:hue-rotate(0deg)}100%{filter:hue-rotate(360deg)}}
+@keyframes rainbowHeart{0%{color:#ff3366}16%{color:#ff6633}33%{color:#ffcc33}50%{color:#33cc66}66%{color:#33cccc}83%{color:#6633cc}100%{color:#ff3366}}
+@keyframes glowPulse{0%,100%{opacity:1;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}50%{opacity:.7;text-shadow:0 0 3px #ff3366,0 0 6px #ff3366,0 0 12px #ff336660}}
+@keyframes dangerPulse{0%,100%{opacity:1;text-shadow:1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000,0 0 6px #ff0033,0 0 14px #ff0033,0 0 22px #ff003390}50%{opacity:.5;text-shadow:1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000,0 0 3px #ff0033,0 0 8px #ff0033,0 0 14px #ff003360}}
+.dim{opacity:.5;filter:grayscale(60%)}
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;z-index:100;overflow-y:auto}
+.overlay.open{display:flex;align-items:flex-start;justify-content:center;padding:40px 20px}
+.profile{max-width:900px;width:100%;background:#1a1512;border-radius:12px;overflow:hidden;border:1px solid #2d2520}
+.profile-header{padding:24px 24px 16px;position:sticky;top:0;background:#1a1512;z-index:1}
+.profile-close{float:right;cursor:pointer;color:#6a5d50;font-size:1.3rem;line-height:1;transition:color .2s}
+.profile-close:hover{color:#d4a574}
+.profile h2{font-size:1.5rem;font-weight:400;color:#d4a574}
+.profile-meta{font-size:0.8rem;color:#6a5d50;margin-top:4px}
+.profile-body{padding:0 24px 32px}
+.profile-photos{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;padding:0 0 16px}
+.profile-photos img{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:6px;cursor:pointer;transition:opacity .2s}
+.profile-photos img:hover{opacity:.8}
+.profile-photos .ph-empty{aspect-ratio:3/4;border:1px dashed #3d3530;border-radius:6px;display:flex;align-items:center;justify-content:center;color:#4a3d30;font-size:0.8rem;font-style:italic}
+.profile-section{margin-bottom:20px}
+.profile-label{font-size:0.7rem;text-transform:uppercase;letter-spacing:2px;color:#6a5d50;margin-bottom:6px}
+.profile-text{font-size:0.88rem;color:#b0a396;line-height:1.6}
+.profile-badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:0.72rem;margin-right:6px;margin-top:8px;cursor:default}
+.badge-on{background:#1e3a1e;color:#4ade80}
+.badge-off{background:#3a1e1e;color:#ef4444}
+.badge-flirt{background:#2d2520;color:#d4a574}
+.toggle-btn{display:inline-block;padding:4px 14px;border-radius:12px;font-size:0.75rem;cursor:pointer;border:1px solid #2d2520;transition:all .2s;margin-top:8px;user-select:none}
+.toggle-btn.on{background:#1e3a1e;color:#4ade80;border-color:#1e3a1e}
+.toggle-btn.off{background:#3a1e1e;color:#ef4444;border-color:#3a1e1e}
+.toggle-btn:hover{opacity:.85}
+footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;z-index:200;align-items:center;justify-content:center;cursor:zoom-out}
+.lightbox.open{display:flex}
+.lightbox img{max-width:90vw;max-height:90vh;border-radius:8px;object-fit:contain}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Assistantes</h1>
+  <p id="count">chargement…</p>
+</header>
+
+<div class="toolbar">
+  <button class="btn active" data-filter="all">Toutes</button>
+  <button class="btn" data-filter="active">Actives</button>
+  <button class="btn" data-filter="inactive">Inactives</button>
+  <button class="btn" data-filter="photos">Avec photos</button>
+</div>
+
+<div class="container">
+  <div class="grid" id="grid"></div>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="profile" id="profile"></div>
+</div>
+
+<div class="lightbox" id="lightbox">
+  <img id="lightbox-img" src="">
+</div>
+
+<footer>Pick aléatoire journalier via data.json — repo Assistantes</footer>
+
+<script>
+let data=[];
+let currentFilter='all';
+
+fetch('data.json').then(r=>r.json()).then(d=>{
+  try{const s=JSON.parse(localStorage.getItem('ast_overrides')||'{}');d.forEach(a=>{if(a.name in s)a.active=s[a.name]});}catch(e){}
+  data=d;
+  render(d,'all');
+});
+
+function render(list,filter){
+  currentFilter=filter;
+  let sorted=[...list].sort((a,b)=>(a.flirty||0)-(b.flirty||0));
+  let filtered=sorted;
+  if(filter==='active')filtered=list.filter(a=>a.active);
+  else if(filter==='inactive')filtered=list.filter(a=>!a.active);
+  else if(filter==='photos')filtered=list.filter(a=>a.photos&&a.photos.length>0);
+
+  document.getElementById('count').textContent=
+    filtered.length+' assistantes · '+list.filter(a=>a.active).length+' actives · '
+    +list.filter(a=>a.photos&&a.photos.length>0).length+' avec photos';
+
+  const grid=document.getElementById('grid');
+  grid.innerHTML=filtered.map(a=>{
+    const hasPhoto=a.photos&&a.photos.length>0;
+    const img=hasPhoto
+      ? (a.idle
+        ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}"><video class="card-video" src="${a.idle}" muted loop playsinline preload="none"></video>`
+        : `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`)
+      : `<div class="card-placeholder">photo à venir</div>`;
+    const flirtDots=a.flirty>=6
+      ? `<span class="flirt-lvlS"><span class="heart">♥</span><span class="s-letter">S</span></span>`
+      : a.flirty>=5
+      ? `<span class="flirt-lvl5">☠♥</span>`
+      : a.flirty>=4
+      ? `<span class="flirt-lvl4">♥!</span>`
+      : [1,2,3].map(i=>`<span class="flirt-heart ${i<=a.flirty?'on':'off'}">${i<=a.flirty?'♥':'♡'}</span>`).join('');
+    return `
+    <div class="card ${a.active?'':'dim'}" data-name="${a.name}">
+      <div class="flirt">${flirtDots}</div>
+      <div class="status-dot ${a.active?'on':'off'}"></div>
+      ${img}
+      <div class="card-info">
+        <div class="card-name">${a.name}</div>
+        <div class="card-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
+        <div class="card-trait">${a.trait||''}</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  document.querySelectorAll('.card').forEach(c=>{
+    c.onclick=()=>openProfile(c.dataset.name);
+    const v=c.querySelector('.card-video');
+    if(v){
+      c.addEventListener('mouseenter',()=>v.play().catch(()=>{}));
+      c.addEventListener('mouseleave',()=>{v.pause();v.currentTime=0;});
+    }
+  });
+}
+
+function openProfile(name){
+  const a=data.find(x=>x.name===name);
+  if(!a)return;
+  buildProfile(a);
+  document.getElementById('overlay').classList.add('open');
+}
+
+function buildProfile(a){
+  const hasPhotos=a.photos&&a.photos.length>0;
+  const photoHtml=hasPhotos
+    ? `<div class="profile-photos">${a.photos.map((p,i)=>`<img src="${p}" loading="lazy" data-idx="${i}" onclick="openLightbox('${a.name}',${i})">`).join('')}</div>`
+    : `<div class="profile-photos"><div class="ph-empty">photos à venir</div></div>`;
+
+  document.getElementById('profile').innerHTML=`
+    <div class="profile-header">
+      <span class="profile-close" onclick="closeProfile()">&times;</span>
+      <h2>${a.name}</h2>
+      <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
+      ${a.flirty>=6
+        ? `<span class="profile-badge badge-flirt flirt-lvlS" style="font-size:0.8rem;padding:4px 12px;gap:4px"><span class="heart">♥</span><span class="s-letter">S — SPÉCIAL</span></span>`
+        : a.flirty>=5
+        ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.8rem;padding:4px 12px">☠♥ LVL 5 — DANGER</span>`
+        : a.flirty>=4
+        ? `<span class="profile-badge badge-flirt flirt-lvl4" style="font-size:0.8rem;padding:4px 12px">♥! LVL 4 — On baise aujourd'hui</span>`
+        : `<span class="profile-badge badge-flirt">Flirt ${'♥'.repeat(a.flirty)}${'♡'.repeat(3-a.flirty)}</span>`}
+      <span class="toggle-btn ${a.active?'on':'off'}" onclick="toggleActive('${a.name}')">${a.active?'● Active':'○ Inactive'}</span>
+    </div>
+    <div class="profile-body">
+      ${photoHtml}
+      <div class="profile-section">
+        <div class="profile-label">Apparence</div>
+        <div class="profile-text">${a.desc}</div>
+      </div>
+      <div class="profile-section">
+        <div class="profile-label">Voix</div>
+        <div class="profile-text">${a.voice}</div>
+      </div>
+      <div class="profile-section">
+        <div class="profile-label">Signature</div>
+        <div class="profile-text">${a.trait}</div>
+      </div>
+    </div>
+  `;
+}
+
+function toggleActive(name){
+  const a=data.find(x=>x.name===name);
+  if(!a)return;
+  a.active=!a.active;
+  try{const s=JSON.parse(localStorage.getItem('ast_overrides')||'{}');s[name]=a.active;localStorage.setItem('ast_overrides',JSON.stringify(s));}catch(e){}
+  buildProfile(a);
+  render(data,currentFilter);
+}
+
+function openLightbox(name,idx){
+  const a=data.find(x=>x.name===name);
+  if(!a||!a.photos||!a.photos[idx])return;
+  document.getElementById('lightbox-img').src=a.photos[idx];
+  document.getElementById('lightbox').classList.add('open');
+}
+
+function closeLightbox(){
+  document.getElementById('lightbox').classList.remove('open');
+}
+
+function closeProfile(){
+  document.getElementById('overlay').classList.remove('open');
+}
+
+document.getElementById('overlay').onclick=e=>{
+  if(e.target.id==='overlay')closeProfile();
+};
+
+document.getElementById('lightbox').onclick=e=>{
+  if(e.target.id==='lightbox'||e.target.id==='lightbox-img')closeLightbox();
+};
+
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape'){closeLightbox();closeProfile();}
+});
+
+document.querySelectorAll('.btn').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('.btn').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    render(data,b.dataset.filter);
+  };
+});
+</script>
+</body>
+</html>
