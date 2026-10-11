@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 10:13 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects. A 24-year-old Lebanese woman with warm golden skin, long thick dark brown wavy hair, large dark brown almond-shaped eyes with heavy lashes, arched eyebrows, full lips, faint smile. Voluptuous figure, generous bust. She wears a sheer white chiffon nightgown, translucent and flowing, nothing underneath, skin and silhouette clearly visible through the thin fabric, the material draped over her curves. Standing by a window with sheer curtains, warm morning light backlighting her silhouette through the transparent fabric, looking at camera with a magnetic expression. Youthful face, smooth skin.". Caption: "Ranya v7, nuisette transparente."
+### Vision
+A vertical photograph of a young woman standing indoors in front of a window. She has long, dark brown wavy hair falling over her shoulders, dark almond-shaped eyes, defined eyebrows, and full lips, with a faint, relaxed smile and a direct gaze toward the camera. Her skin is warm and golden-toned with a natural texture.
+
+She wears a sheer, translucent white chiffon nightgown that drapes loosely over her body. The fabric is thin enough that the silhouette of her bust and torso, including her breasts, is clearly visible through the material. The gown has short sleeves and a low neckline that exposes part of her chest.
+
+She is positioned slightly off-center, with her body angled and one shoulder turned toward the window. Behind her, sheer white curtains hang at the window, diffusing bright warm daylight that backlights her, creating a soft glow around her edges and through the transparent fabric. The light source is strong enough to make the curtains appear luminous.
+
+The composition is a medium shot, framing her from the waist up. The overall color palette is warm, dominated by soft whites, creams, and the golden tones of her skin and the morning light. The image has a natural, candid quality resembling an unedited smartphone photo, with realistic skin detail and no painterly or stylized effects. There is no visible text, watermark, or logo. The mood is intimate and softly lit, with a gentle, warm atmosphere.

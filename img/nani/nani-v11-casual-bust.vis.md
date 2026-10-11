@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-10 16:42 UTC
+### Context
+Edited with image_edit from /images/nani-v11-casual.png with the instruction: "Increase her bust size significantly — make her breasts noticeably larger and fuller, heavy bust straining against the white crop top fabric. Keep everything else exactly the same."
+### Vision
+The image is a sunlit outdoor selfie taken by a woman with shoulder-length dark brown hair and a tanned complexion. She is smiling toward the camera, her face slightly tilted, with her right arm extended outward holding the device (a typical selfie pose). She wears a tight white scoop-neck crop top and light-wash denim shorts. Her bust has been digitally enlarged compared to what her otherwise slim frame would suggest: the white fabric stretches across a full, heavy chest, with pronounced cleavage and visible strain lines over the breasts, making them the most prominent feature of her torso. The enlargement is localized to the bust region while the rest of her body — shoulders, arms, waist, and face — remains consistent with a natural build.
+
+In the background, a paved concrete walkway runs behind her. To the left, sandy ground and two palm tree trunks rise from the sand, with a strip of bright turquoise ocean and a thin line of white surf visible at the top edge of the frame. The lighting is harsh midday sunlight, casting short shadows and producing strong highlights on her skin, hair, and the white top. Colors are warm and saturated — cream sand, green grass patches to the right, blue water, and the white and denim blue of her clothing.
+
+The composition is a medium shot framed from the thighs upward, angled slightly downward from the camera's elevated position. The mood is casual and cheerful, consistent with a beachside vacation photo. No text, logos, or watermarks are present. The image is a digital photograph with visible post-production manipulation concentrated on the bust.

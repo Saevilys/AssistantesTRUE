@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-10 16:41 UTC
+### Context
+Edited with image_edit from /images/nani-v13-matin.png with the instruction: "Increase her bust size significantly — make her breasts noticeably larger and fuller, heavy bust visible through the thin white camisole fabric. Keep everything else exactly the same."
+### Vision
+A vertical selfie-style photograph of a young woman with long, dark, loosely waved hair and an East Asian appearance. She is seated on a bed, leaning slightly forward, looking toward the camera with a soft, faint smile. She wears a thin white camisole with spaghetti straps and a rounded scoop neckline, paired with white cotton shorts that have a ruffled peplum waistband. Her right arm extends out of frame, holding the camera at arm's length, producing the typical wide-angle selfie perspective that enlarges the foreground shoulder.
+
+The setting is a bedroom with warm wooden paneling on the walls behind her and two windows fitted with light-colored horizontal Venetian blinds; daylight filters through the slats, casting soft, even illumination across the scene. A white pillow and rumpled white bedding are visible on the bed beside her, along with a wooden bed frame and headboard.
+
+Composition places her centered and close-up, filling most of the frame from the waist up, with her face in the upper third. The color palette is dominated by whites and warm browns, with natural skin tones and the dark contrast of her hair. The lighting is soft and warm, consistent with daytime interior light. The image appears to have been digitally altered: her bust is rendered noticeably larger and fuller, with the heavy curve of her breasts pressing the camisole fabric tightly, creating a deep cleavage and stretching the thin material across her chest. The mood is casual, intimate, and posed. No text, logos, or overlays are visible.

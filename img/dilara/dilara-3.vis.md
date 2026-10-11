@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-10 19:19 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo of a 24-year-old Kazakh woman, warm bronzed skin with Eurasian undertones, high cheekbones, long straight black hair, light almond-shaped eyes, full bust, generous hips, slim waist, youthful face, smooth skin. She wears a fitted burgundy dress with neckline, standing by a window at dusk, city lights of Almaty behind her, soft moody lighting. Selfie angle. Raw unedited phone camera quality, realistic skin texture with visible pores."
+### Vision
+A vertical, portrait-oriented image presented as a candid selfie. The subject is a young adult woman, photographed at close range from a slightly high, arm's-length selfie angle, her left arm extended toward the camera (out of frame). She has long, straight black hair falling past her shoulders, warm bronzed skin with visible texture and pores, high cheekbones, light almond-shaped eyes, and a neutral, relaxed facial expression with closed lips. She is wearing a fitted, short-sleeved burgundy (deep maroon) dress with a scooped neckline that reveals part of her chest. Her face is turned toward the camera; her head is tilted slightly.
+
+Behind her is a large window through which a cityscape is visible at dusk. The sky is a muted blue-grey, and the distant buildings and streetlights appear as soft, out-of-focus bokeh in warm yellow, orange, and pink tones. A pale window frame and a white sill or ledge occupy the right edge of the frame. The lighting is soft and moody, with cooler ambient light from the window contrasted against the warmer tones on her skin.
+
+The medium mimics a raw, unedited smartphone photo: slightly flat contrast, realistic skin detail, and no obvious retouching or heavy filters. There is no visible text. The overall mood is intimate, casual, and quietly evening-toned.

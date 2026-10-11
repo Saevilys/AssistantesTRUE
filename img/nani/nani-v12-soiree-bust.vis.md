@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-10 16:42 UTC
+### Context
+Edited with image_edit from /images/nani-v12-soiree.png with the instruction: "Increase her bust size significantly — make her breasts noticeably larger and fuller, heavy bust straining against the brick-red bodycon dress fabric. Keep everything else exactly the same."
+### Vision
+A portrait photograph of a young woman standing outdoors against a beach backdrop at dusk. She has dark, straight, shoulder-length hair parted in the middle, dark eyes, and a warm, closed-mouth-to-smiling expression showing her teeth. She is wearing a tight, fitted, sleeveless brick-red (rust) bodycon dress with thin spaghetti straps and a low scoop neckline. The dress hugs her body, and the bust area appears full and heavy, pressing against the fabric. Her left arm rests on a dark metal railing, hand relaxed; her right arm hangs at her side. She is positioned slightly left of center, facing the camera, framed from roughly the mid-thigh up.
+
+Behind her is a dark metal railing with vertical bars, a calm body of water (ocean) stretching across the middle of the frame, and a low coastline with hints of green vegetation in the lower left. The sky above shows a warm gradient of sunset colours—pale orange and soft pink near the horizon fading to muted blue-grey toward the top, with a few faint wisps of cloud. The lighting is soft, golden-hour light coming from the side, casting a warm glow on her skin and creating gentle shadows.
+
+The medium is a colour photograph, likely digitally retouched (the bust appears enlarged and smoothed relative to the rest of the body). There is no visible text, caption, watermark, or UI elements. The overall mood is relaxed, warm, and flattering, typical of a posed portrait or glamour-style image taken at sunset.

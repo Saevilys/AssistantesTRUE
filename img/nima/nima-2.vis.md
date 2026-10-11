@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 20:03 UTC
+### Context
+A smaller copy of /images/nima-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A portrait of a young South Asian woman seated cross-legged on a woven straw rug, framed from the thighs up. She has fair-tan skin, dark hair gathered into two long braids that fall across her chest, each braid threaded with turquoise and brown beads and terminating in a tassel-like cluster of beads near her waist. Her eyes are closed or cast downward, lips slightly parted, with a calm, contemplative expression. She wears a fitted emerald green long-sleeved top with a mandarin-style collar and gold trim along the seams, paired with dark gray or black cuffed jeans. Her left arm is extended toward the camera as if holding it, suggesting a selfie angle taken from slightly above. In her right hand she holds a small patterned ceramic cup containing amber liquid, likely tea. Multiple strands of prayer beads (wooden or seed beads in brown and blue) encircle her right wrist.
+
+The setting is indoors beside a window with a wooden frame; bright, warm daylight pours through the glass, revealing a hazy outdoor landscape of dry hills or fields. The wall and window sill show aged wood and a painted surface with visible wear and chipped paint. To the left edge, a colorful striped textile or cushion is partially visible. The rug has a geometric red, blue, and yellow border.
+
+The image has the quality of a smartphone photo: slightly soft focus, natural skin texture with visible pores, warm color cast from the afternoon light, and no obvious post-processing. Lighting is dominated by the window, creating a bright highlight on the right side of her face and shoulder while the left side falls into soft shadow. The overall mood is quiet, warm, and serene. No text, logos, watermarks, or interface elements are visible.

@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 09:51 UTC
+### Context
+A smaller copy of /images/noa-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph showing a young woman seated on the stone edge of an outdoor rooftop pool at night. She is positioned slightly left of center, facing the camera with a warm closed-lip smile. She has long dark brown wavy hair, wet and pulled back behind her shoulders, warm olive skin, dark amber eyes, and full lips. She wears a black string bikini top that reveals ample cleavage, and a thin gold chain necklace around her neck. Light blue denim shorts are pulled down and unbuttoned at the waist, resting low on her hips. Her bare legs extend toward the lower right, with her feet submerged in the bright turquoise-blue pool water visible at the right edge of the frame.
+
+Behind her is a glass railing and a cityscape at night, with numerous scattered yellow and white building lights and a few glowing neon signs in red, pink, and blue. The dark night sky fills the upper portion. The composition is a medium shot framing her from head to mid-thigh. The image has the appearance of a candid smartphone photo, though it remains relatively clean and sharp rather than heavily grainy. The lighting is warm artificial light on her face and body contrasting with the dark night background and the cool blue pool. There is no legible text in the image other than indistinct distant neon signage. The overall mood is relaxed and confident.

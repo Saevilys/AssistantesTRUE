@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-10 19:17 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo of a 24-year-old Kenyan woman, warm ebony skin, long twists with small gold cuffs, large expressive brown eyes, full lips, full bust, generous hips, slim waist, youthful face, smooth skin. She wears a fitted emerald green dress, standing on a rooftop in Nairobi at golden hour, city skyline behind her. Natural light, raw unedited phone camera quality, realistic skin texture with visible pores."
+### Vision
+A photorealistic, vertically framed portrait of a young Black woman standing on a rooftop, facing the camera with a calm, neutral expression. She has warm dark-brown skin with realistic texture, large brown eyes, full lips, and a youthful face. Her hair is styled in long, dark twists or locs that fall past her shoulders, with small gold cuffs visible near the top of the head. She is wearing a fitted emerald-green dress with short sleeves; the fabric drapes and gathers in ruched folds across her left hip, and the neckline sits low. The dress emphasizes a full bust, slim waist, and wider hips.
+
+The setting is an open rooftop with a weathered concrete parapet behind her. In the background, a hazy city skyline of mid-rise and high-rise buildings stretches across the horizon, suggesting an urban environment. The scene is lit by warm, low-angle golden-hour sunlight coming from the left, casting a soft glow on her skin and clothing and producing gentle shadows. The overall image has a natural, slightly soft phone-camera quality rather than a polished studio look.
+
+Composition: the subject is centered and occupies most of the frame from the waist up, with the cityscape filling the upper portion behind her. Colours are dominated by the vivid green of the dress, warm brown skin tones, and muted blue-grey city tones under pale sky. There is no visible text. The mood is serene, confident, and sunlit.

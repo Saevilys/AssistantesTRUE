@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
+### Context
+A smaller copy of /images/salma-casting.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic full-body portrait of a young woman photographed from the head down to roughly mid-thigh. She stands slightly turned toward the camera, facing the viewer, with a calm, confident expression and lips parted. She has honey-tan skin, long straight black hair falling past her shoulders, almond-shaped brown eyes, and groomed eyebrows. She wears a tight, form-fitting black short-sleeved dress with a deep scoop neckline; the fabric clings closely to her bust, cinched waist, and hips, ending in a fitted skirt. Her arms hang relaxed at her sides, hands loosely curled.
+
+The setting is an outdoor street at night, apparently urban European or old-Cairo-style architecture: behind her to the left is a stone building facade with a wall-mounted lantern glowing warm amber, and along the right side a row of street lamps recedes into the distance, their light creating a line of warm points fading into the dark. A paved or cobblestone roadway and a raised sidewalk edge are visible at the bottom. The lighting is low and warm, casting soft amber highlights on her shoulder, chest, and face, while the background recedes into shadow and bokeh. The image has a slightly grainy, candid phone-camera quality with realistic skin texture and no painterly effects. No text, logos, or watermarks are visible. The overall mood is sultry, intimate, and nocturnal.

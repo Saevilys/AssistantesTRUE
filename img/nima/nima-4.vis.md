@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-10 20:03 UTC
+### Context
+A smaller copy of /images/nima-4.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic smartphone-style photograph showing a young woman standing in a bedroom, framed from the head to mid-thigh in a selfie taken from slightly above. She has long dark hair parted into two thick braids that hang down over her chest, each braid threaded with spaced turquoise-blue beads and finished at the ends with small orange-brown bead caps. On her right wrist she wears several stacked bracelets of orange, brown, and turquoise beads. Her face is youthful with a faint, teasing half-smile directed at the camera. She wears a sheer black nightie or babydoll: a lace-trimmed bra top over a transparent dotted-mesh skirt that falls through the thighs, the fabric translucent against warm-toned skin.
+
+The setting is an interior bedroom. On the left background a lit table lamp casts a soft warm glow onto a plain beige wall, with a piece of furniture and what looks like a hanging textile edge near the left border. To the right, a bed with white sheets and a patterned cushion or pillow in reds and earth tones is partly visible. The overall lighting is warm and low-key, dominated by amber and golden tones from the lamp, contrasting with the deep black of the nightie. The image has the grain, soft focus, and unedited look of a casual phone camera. There is no visible text. The mood is intimate, relaxed, and informal.

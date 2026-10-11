@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-10 10:11 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects. A 24-year-old Lebanese woman with warm golden skin, long thick dark brown wavy hair, large dark brown almond-shaped eyes with heavy lashes, arched eyebrows, full lips, faint smile. Voluptuous figure, generous bust, full hips. She wears a black bikini top with gold ring detail, matching bottom, gold chain necklace. Standing on a yacht deck in the Mediterranean at golden hour, sea behind, wind in her hair, looking at camera with a magnetic confident expression. Youthful face, smooth skin. Black bikini bottom visible.". Caption: "Ranya v5, bikini."
+### Vision
+A vertical, near-full-body photograph of a young woman standing on a yacht deck. She has long, thick, dark brown wavy hair blowing in the wind, large dark brown eyes, arched eyebrows, full lips, and a faint closed-mouth smile. Her skin is warm-toned with visible texture and pores. She wears a black bikini; the top has thick straps, a plunging center, and a gold ring detail at the center bust, with a matching black bikini bottom. A gold chain necklace sits at her collarbone.
+
+Composition and framing: she is centered in the frame, captured from roughly the hips up, facing the camera directly with a confident expression. To the left, the white hull and railing of the yacht edge into the frame; to the right, a metal railing runs diagonally. Behind her is open sea and a clear sky with a soft gradient from pale blue near the top to warm tones near the horizon.
+
+Colours and light: warm golden-hour sunlight illuminates her face, torso, and left arm, casting soft shadows on her right side and stomach. The sea is deep blue, and the sky shows a muted sunset gradient. The overall palette is warm and natural.
+
+Style and medium: photorealistic, intended to resemble a raw, unedited smartphone photo with slight grain and natural skin rendering. No visible text, captions, logos, or overlays. Mood: relaxed, confident, and sunlit, consistent with a candid vacation or social-media style portrait.

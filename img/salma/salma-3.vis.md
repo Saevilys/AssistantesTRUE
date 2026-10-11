@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
+### Context
+A smaller copy of /images/salma-v3b.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic-style image depicting a young woman seated on the edge of a bed, photographed in a casual, candid manner that mimics raw smartphone photography. The subject has long, straight black hair with a slightly tousled, bedhead appearance, tanned honey-toned skin, brown almond-shaped eyes, and full lips. She is wearing only an unbuttoned, oversized white men's dress shirt that falls open to reveal her bare chest, cleavage, and midriff; beneath the shirt she wears black lace panties. Her legs are bare and spread slightly apart. One hand reaches up to pull the open front of the shirt further apart, while the other rests on her thigh. She leans forward slightly toward the camera with a sultry, inviting expression and her gaze directed straight at the viewer.
+
+The setting is a bedroom. Behind her is a bed covered with rumpled, crumpled white sheets and a white pillow, suggesting a disheveled, morning-after look. A plain wooden or dark headboard edge is partly visible at the left. Thin, light-coloured curtains hang in the background, diffusing warm morning light that creates a golden glow across the scene and casts soft shadows on the bedding.
+
+Composition: full-body framing from the head down to roughly the knees, with the woman centered and occupying most of the frame. The lighting is warm and soft, consistent with morning sun through sheer curtains. Colours are dominated by warm skin tones, white linens and shirt, and dark hair. The image has a grainy, low-processing, phone-camera aesthetic with realistic skin texture and no painterly smoothing. There is no visible text, watermark, or interface elements. The overall mood is intimate, seductive, and casual.

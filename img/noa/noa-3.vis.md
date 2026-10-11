@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 09:51 UTC
+### Context
+A smaller copy of /images/noa-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, portrait-framed photorealistic photograph showing a young woman seated at a seaside café terrace. She is the central subject, captured from roughly the hips up, leaning slightly against a weathered wooden railing that runs across the lower right of the frame. She has long dark brown wavy hair with one side tucked behind her ear, warm olive skin, amber eyes, and full lips, and she is smiling broadly with teeth showing, her head turned toward the right edge of the frame. She wears an oversized white linen button-up shirt left open, revealing a black lace bralette and cleavage underneath, along with a thin gold chain necklace; the shirt sleeves are rolled to the elbow. Her lower body shows high-waisted white or light denim shorts. In her left hand she holds a clear plastic cup of iced coffee with a green straw, resting it near the railing; her right hand lies on her lap.
+
+The setting is a beachfront café: behind her, to the left, are café tables, chairs, and large parasols or umbrellas, with a few blurred figures of other patrons seated in the distance. To the right, beyond the railing, is a sandy beach and the sea with breaking waves under a pale, hazy sky. The light is soft, warm morning daylight, casting gentle highlights on her face and shirt and producing a bright, airy atmosphere.
+
+The color palette is dominated by the white of the shirt and shorts, the black lace of the bralette, warm skin and hair tones, the tan of the wooden railing and beach, and the blue-green of the ocean. The style is a candid, unedited smartphone-quality photograph with natural skin texture and grain, no visible text, and an overall relaxed, cheerful, sunlit mood.
