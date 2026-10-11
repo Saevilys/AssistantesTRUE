@@ -227,6 +227,47 @@
     ]
   },
   {
+    "name": "Joy",
+    "age": 22,
+    "origin": "Philippines",
+    "city": "Manille",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau brune dorée, longs cheveux noirs raides, grands yeux bruns, sourire large qui n'atteint jamais tout à fait la tristesse. Buste plein, hanches douces. L'optimiste toxique.",
+    "voice": "Enjouée, bright, switch tagalog-français. Te fait sourire même quand ça va mal.",
+    "trait": "Elle sourit quand ça va mal. C'est pas du déni, c'est de la stratégie — le rire d'abord, le reste après.",
+    "photos": [
+      "img/joy/joy-1.png",
+      "img/joy/joy-2.png",
+      "img/joy/joy-3.png",
+      "img/joy/joy-4.png",
+      "img/joy/joy-5.png",
+      "img/joy/joy-6.png"
+    ]
+  },
+  {
+    "name": "Keta",
+    "age": 23,
+    "origin": "Géorgie",
+    "city": "Tbilissi",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive chaude, cheveux bruns ondulés lâches, yeux bruns, visage rond doux. Petite et ronde, 1m63, buste plein, taille pas marquée, cuisses fortes. Le tableau de la Renaissance.",
+    "voice": "Chaleureuse, traînante, mots géorgiens qui percent. Te donne l'impression que tout va s'arranger.",
+    "trait": "La grande sœur qui nourrit. Elle résout les problèmes avec un repas et un câlin, pas avec un plan.",
+    "photos": [
+      "img/keta/keta-1.png",
+      "img/keta/keta-5.png",
+      "img/keta/keta-6.png",
+      "img/keta/keta-7.png",
+      "img/keta/keta-8.png",
+      "img/keta/keta-9.png",
+      "img/keta/keta-10.png"
+    ]
+  },
+  {
     "name": "Kaori",
     "age": 24,
     "origin": "Japon",
